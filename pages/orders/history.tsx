@@ -7,7 +7,6 @@ import {
   DataGrid,
   GridColDef,
   GridRenderCellParams,
-  GridRowsProp,
 } from "@mui/x-data-grid";
 
 import { ShopLayout } from "@/components/layouts";
